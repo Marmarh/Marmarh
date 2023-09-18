@@ -4,23 +4,7 @@
 - 💬 Ask me about **Php, Symfony, Javascript, Angular**
 
 - 📫 How to reach me **med.marmarh@outlook.com**
--    <p>
-        Mon adresse e-mail : <span id="email">med.marmarh@outlook.com</span>
-        <!-- Icône de copie -->
-        <span class="copy-icon" onclick="copyToClipboard('email')">📋</span>
-    </p>
-    <script>
-        function copyToClipboard(elementId) {
-            const emailElement = document.getElementById(elementId);
-            const textArea = document.createElement('textarea');
-            textArea.value = emailElement.textContent;
-            document.body.appendChild(textArea);
-            textArea.select();
-            document.execCommand('copy');
-            document.body.removeChild(textArea);
-            alert('Adresse e-mail copiée dans le presse-papiers : ' + textArea.value);
-        }
-    </script>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
